@@ -1,8 +1,10 @@
 # Electrónica Medina - Unidad 3
-
-Alumno: Medina González Cristian Roberto - 23170234
-Docente: Ing. José Luis Medina Jiménez
-Materia: Lenguajes de Interfaz | Horario: 10:00 - 11:00
+Alumnos:<br>
+Medina González Cristian Roberto - 23170234<br>
+Villalba Rodríguez Kevin Eliazar - 23170369<br>
+Leon Fernandez Alexis Javier - 23171137<br>
+Docente: Ing. José Luis Medina Jiménez 
+Horario: 10:00 - 11:00
 
 Sistema de ventas e inventario de Unidad 2 refactorizado con procedimientos, macros y USES. Conserva el registro, búsqueda, recepción, ventas, resumen y persistencia, así como la alerta de cinco unidades o menos.
 
