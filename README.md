@@ -33,4 +33,4 @@ Pasaron 12 casos del menú real: altas y duplicados, búsqueda, precios inválid
 
 El archivo inventario.dat es binario y mantiene el formato original. Se guarda en la carpeta de trabajo: la raíz de esta entrega al usar F5 o Ejecutar.cmd. Para reiniciar la demostración, cerrar el programa y copiar datos_prueba/inventario_ejemplo.dat sobre inventario.dat; esto reemplaza el catálogo guardado.
 
-Las bibliotecas de Irvine32 deben estar instaladas para recompilar. No se cambiaron Defender ni sus exclusiones. No se ha publicado este proyecto en GitHub.
+Las bibliotecas de Irvine32 deben estar instaladas para recompilar. No se cambiaron Defender ni sus exclusiones.
