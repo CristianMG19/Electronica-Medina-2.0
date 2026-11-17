@@ -6,10 +6,13 @@ La primera parte reproduce el reporte de Unidad 2. La actualización y las prueb
 
 Ventas e inventario en MASM x86 / Irvine32
 
-Medina González Cristian Roberto · Matrícula 23170234  
-Lenguajes de Interfaz, Unidad 2  
-Docente: Ing. José Luis Medina Jiménez · Horario: 10:00 - 11:00  
-28 de octubre de 2026
+Alumnos:<br>
+Medina González Cristian Roberto - 23170234<br>
+Villalba Rodríguez Kevin Eliazar - 23170369<br>
+Leon Fernandez Alexis Javier - 23171137<br>
+Docente: Ing. José Luis Medina Jiménez 
+Horario: 10:00 - 11:00
+
 
 ## 1. Negocio y regla adicional
 
@@ -88,30 +91,6 @@ No se afirma haber completado la navegación por el depurador gráfico ni la exp
 
 El formato está validado estructuralmente, pero no incluye cifrado ni autenticación. No se diseñó para dos instancias que escriban simultáneamente. Los ingresos son de la sesión; el catálogo es el dato persistente.
 
-# Fuentes y decisiones investigadas
-
-Se consultaron las referencias siguientes para contrastar los contratos de la biblioteca y de las herramientas. El formato INV1, el umbral de cinco unidades y la organización en registros son decisiones propias de esta implementación. Consulta: 28 de octubre de 2026.
-
-[1] Kip Irvine, documentación de ReadString, copia HTML alojada por California State University, Dominguez Hills. Parámetros EDX/ECX, longitud de salida y terminador.
-https://csc.csudh.edu/mmccullough/asm/help/source/irvinelib/readstring.htm
-
-[2] Microsoft Learn, PROC. Declaración de procedimientos y lista USES en MASM de 32 bits.
-https://learn.microsoft.com/en-us/cpp/assembler/masm/proc?view=msvc-170
-
-[3] Kip Irvine, ReadFromFile. Diferencia entre capacidad solicitada, bytes recibidos y CF de error.
-https://csc.csudh.edu/mmccullough/asm/help/source/irvinelib/readfromfile.htm
-
-[4] Kip Irvine, CloseFile. Resultado distinto de cero para un cierre satisfactorio.
-https://csc.csudh.edu/mmccullough/asm/help/source/irvinelib/closefile.htm
-
-[5] Kip Irvine, WriteToFile. Verificación de CF y de la cantidad realmente escrita.
-https://csc.csudh.edu/mmccullough/asm/help/source/irvinelib/writetofile.htm
-
-[6] Microsoft Learn, MoveFileExA. Reemplazo del destino y opción WRITE_THROUGH; retorno cero en caso de error.
-https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-movefileexa
-
-[7] Microsoft Learn, ML and ML64 command-line reference. Ensamblado COFF de 32 bits e información de depuración.
-https://learn.microsoft.com/en-us/cpp/assembler/masm/ml-and-ml64-command-line-reference?view=msvc-170
 
 ## Material de partida
 
