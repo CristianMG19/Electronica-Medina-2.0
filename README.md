@@ -19,7 +19,7 @@ También se incluye Ejecutar.cmd y el ejecutable probado con símbolos en Debug.
 
 ## Qué se comprobó
 
-Pasaron 123 comprobaciones automáticas del código MASM y 12 casos del menú real: altas y duplicados, búsqueda, precios inválidos, entradas aceptadas/rechazadas, ventas, alerta, resumen, guardado y recuperación en un segundo proceso. Se verificaron también errores de archivo, resultados en registros, USES y equilibrio de pila. La compilación se comprobó con ML/LINK; la sesión manual del depurador gráfico queda pendiente.
+Pasaron 12 casos del menú real: altas y duplicados, búsqueda, precios inválidos, entradas aceptadas/rechazadas, ventas, alerta, resumen, guardado y recuperación en un segundo proceso. Se verificaron también errores de archivo, resultados en registros, USES y equilibrio de pila. La compilación se comprobó con ML/LINK; la sesión manual del depurador gráfico queda pendiente.
 
 ## Contenido de la entrega
 
